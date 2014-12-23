@@ -20,13 +20,13 @@
     <AppXManifest Include="D:\GitHub\vk-sharing\Vk-Sharing\Vk-Sharing\Vk-Sharing.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-12-23T15:52:11.438</Modified>
+      <Modified>2014-12-23T16:29:21.068</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\GitHub\vk-sharing\Vk-Sharing\Vk-Sharing\Vk-Sharing.Windows\bin\Debug\Vk-Sharing.Windows.exe">
       <PackagePath>Vk-Sharing.Windows.exe</PackagePath>
-      <Modified>2014-12-23T15:52:11.123</Modified>
+      <Modified>2014-12-23T16:41:17.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\GitHub\vk-sharing\Vk-Sharing\Vk-Sharing\Vk-Sharing.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -50,19 +50,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\GitHub\vk-sharing\Vk-Sharing\Vk-Sharing\Vk-Sharing.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-12-23T15:52:10.942</Modified>
+      <Modified>2014-12-23T16:29:20.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\GitHub\vk-sharing\Vk-Sharing\Vk-Sharing\Vk-Sharing.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-12-23T15:52:10.944</Modified>
+      <Modified>2014-12-23T16:39:02.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\GitHub\vk-sharing\Vk-Sharing\Vk-Sharing\Vk-Sharing.Windows\bin\Debug\Vk-Sharing.Windows.xr.xml">
       <PackagePath>Vk-Sharing.Windows.xr.xml</PackagePath>
-      <Modified>2014-12-23T15:52:10.871</Modified>
+      <Modified>2014-12-23T16:39:02.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\GitHub\vk-sharing\Vk-Sharing\Vk-Sharing\Vk-Sharing.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-12-23T15:52:11.267</Modified>
+      <Modified>2014-12-23T16:29:21.016</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
