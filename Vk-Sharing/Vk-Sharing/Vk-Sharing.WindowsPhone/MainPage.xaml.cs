@@ -27,7 +27,6 @@ namespace Vk_Sharing
             this.InitializeComponent();
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
-            Vk_Sharing.VK_Helper.OAuthVk();
         }
 
         /// <summary>
