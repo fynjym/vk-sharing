@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAIN-PC</Machine>
+    <WindowsUser>Сергей</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>43bd14cc-6e9b-45ab-8964-059caaa4ec57</PackageIdentityName>
+    <IntermediateOutputPath>D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>65F29626CFAA52AA4D6688D953A396FA6490D2B3DADEDF8D7792DD47BD32B892</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>43bd14cc-6e9b-45ab-8964-059caaa4ec57_1.0.0.0_neutral__z1ch1gk3zfafr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>43bd14cc-6e9b-45ab-8964-059caaa4ec57_z1ch1gk3zfafr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>43bd14cc-6e9b-45ab-8964-059caaa4ec57</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Сергей</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-23T16:51:50.951</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\vk-sharing.Windows.exe">
+      <PackagePath>vk-sharing.Windows.exe</PackagePath>
+      <Modified>2014-12-23T16:51:50.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-26T22:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-26T22:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-26T22:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-26T22:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-23T16:51:50.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-23T16:51:50.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\vk-sharing.Windows.xr.xml">
+      <PackagePath>vk-sharing.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-23T16:51:50.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-23T16:51:50.838</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
