@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>MAIN-PC</Machine>
-    <WindowsUser>Сергей</WindowsUser>
+    <Machine>MSI-GX680</Machine>
+    <WindowsUser>Tobias</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>43bd14cc-6e9b-45ab-8964-059caaa4ec57</PackageIdentityName>
-    <IntermediateOutputPath>D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\obj\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>65F29626CFAA52AA4D6688D953A396FA6490D2B3DADEDF8D7792DD47BD32B892</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>43bd14cc-6e9b-45ab-8964-059caaa4ec57_1.0.0.0_neutral__z1ch1gk3zfafr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>43bd14cc-6e9b-45ab-8964-059caaa4ec57_z1ch1gk3zfafr!App</RegisteredUserModeAppID>
@@ -17,52 +17,52 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-12-23T18:04:45.720</Modified>
+      <Modified>2014-12-23T18:36:22.767</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\vk-sharing.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\vk-sharing.Windows.exe">
       <PackagePath>vk-sharing.Windows.exe</PackagePath>
-      <Modified>2014-12-23T18:04:45.432</Modified>
+      <Modified>2014-12-23T18:26:30.881</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-02-26T22:36:22.000</Modified>
+      <Modified>2014-12-23T17:13:05.547</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-02-26T22:36:22.000</Modified>
+      <Modified>2014-12-23T17:13:05.549</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-02-26T22:36:22.000</Modified>
+      <Modified>2014-12-23T17:13:05.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-02-26T22:36:22.000</Modified>
+      <Modified>2014-12-23T17:13:05.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-12-23T16:51:50.563</Modified>
+      <Modified>2014-12-23T18:36:22.221</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-12-23T16:51:50.564</Modified>
+      <Modified>2014-12-23T18:36:22.223</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\vk-sharing.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\vk-sharing.Windows.xr.xml">
       <PackagePath>vk-sharing.Windows.xr.xml</PackagePath>
-      <Modified>2014-12-23T16:51:50.500</Modified>
+      <Modified>2014-12-23T17:13:05.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\GitHub\vk-sharing\vk-sharing\vk-sharing.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-12-23T18:04:45.587</Modified>
+      <Modified>2014-12-23T18:36:22.428</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
