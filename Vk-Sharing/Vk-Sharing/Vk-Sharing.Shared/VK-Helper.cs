@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security.Principal;
 using System.Text;
 using Windows.Security.Authentication.Web;
 using Windows.UI.Popups;
@@ -8,27 +9,30 @@ namespace Vk_Sharing
 {
     public class VkHelper
     {
-        public static VkHelper Instance;
+        //public static VkHelper Instance;
 
-        private const string AppId = "4695325";
+       // private const string AppId = "4695325";
+        //public string Token;
 
-        static VkHelper()
+      /*  static VkHelper()
         {
             Instance = new VkHelper();
         }
 
         private VkHelper()
-        { }
+        { }*/
 
         public static async void W8OAuthVk()
         {
-            const string vkUri =   "https://oauth.vk.com/authorize?client_id="+AppId+"&scope=9999999&" +
+            const string vkUri = "https://oauth.vk.com/authorize?client_id=" + "4695325" + "&scope=9999999&" +
                                     "redirect_uri=http://oauth.vk.com/blank.html&display=touch&response_type=token";
             var requestUri = new Uri(vkUri);
             var callbackUri = new Uri("http://oauth.vk.com/blank.html");
 
             var result = await WebAuthenticationBroker.AuthenticateAsync(
                 WebAuthenticationOptions.None, requestUri, callbackUri);
+            
+           var t = result.ToString();
 
             switch (result.ResponseStatus)
             {

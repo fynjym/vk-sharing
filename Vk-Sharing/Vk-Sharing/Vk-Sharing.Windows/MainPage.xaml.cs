@@ -25,7 +25,7 @@ namespace Vk_Sharing
         public MainPage()
         {
             this.InitializeComponent();
-            Vk_Sharing.VkHelper.OAuthVk();
+            //VkHelper.W8OAuthVk();
         }
     }
 }
