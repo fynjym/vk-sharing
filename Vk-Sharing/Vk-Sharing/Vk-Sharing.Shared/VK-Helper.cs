@@ -6,11 +6,23 @@ using Windows.UI.Popups;
 
 namespace Vk_Sharing
 {
-    public class VK_Helper
+    public class VkHelper
     {
-        public static async void OAuthVk()
+        public static VkHelper Instance;
+
+        private const string AppId = "4695325";
+
+        static VkHelper()
         {
-            const string vkUri = "https://oauth.vk.com/authorize?client_id=4695325&scope=9999999&" +
+            Instance = new VkHelper();
+        }
+
+        private VkHelper()
+        { }
+
+        public static async void W8OAuthVk()
+        {
+            const string vkUri =   "https://oauth.vk.com/authorize?client_id="+AppId+"&scope=9999999&" +
                                     "redirect_uri=http://oauth.vk.com/blank.html&display=touch&response_type=token";
             var requestUri = new Uri(vkUri);
             var callbackUri = new Uri("http://oauth.vk.com/blank.html");
