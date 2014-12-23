@@ -1,1 +1,0 @@
-D:\GitHub\vk-sharing\Vk-Sharing\Vk-Sharing\Vk-Sharing.Windows\Vk-Sharing.Windows.csproj;neutral
